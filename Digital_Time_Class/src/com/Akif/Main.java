@@ -17,6 +17,8 @@ public class Main {
 			time.setHour(0);
 			time.setMinute(5);
 			System.out.println( time.toString());
+			System.out.println("Double1: "+time.toDouble());
+			System.out.println("Double2: "+time2.toDouble());
 		}
     	catch (Exception e){
 			System.out.println(e.toString());
