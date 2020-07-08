@@ -1,0 +1,7 @@
+11100,Akif,Kartal,_G.30"?'31No%32l$<33]w!78mAP88OAS86s)r83,Governor,a+,good,1.50,87,0.80,daytime,Monday,Tuesday,Wednesday,Thursday,Friday
+12100,Mehmet,Kartal,)/n30M"Y31ovJ32Vt[33>gb78I^k88Bk]86Zba83,Administrator,a+,good,1.50,87,0.80,night,Monday,Tuesday,Wednesday,Thursday,Friday
+13100,Ali,Kartal,k<p30YKj31*Du32Zie33X_^78!j;88'Dc86r<m83,Cook,a+,good,1.50,87,0.80,night,Monday,Tuesday,Wednesday,Thursday,Friday
+14100,Yasin,Kartal,)YC30%P]31Wf&32_?M33rM@78>;(88PK"86C&X83,Doctor,a+,good,1.50,87,0.80,night,Monday,Tuesday,Wednesday,Thursday,Friday
+99999,Ahmet,Cebe,ou=30WOB31-X/32r>_33>-A78MU'88v{R86Bwt83,Jailer,0,okay,180.0,80.0,90.0,night,Tuesday
+99998,Hasan,Gül,ou=30WOB31-X/32r>_33>-A78MU'88v{R86Bwt83,ChiefJailer,0,good,182.0,80.0,90.0,evening,Monday,Sunday,Saturday
+45678,Yusuf,Akgul,nkG30~R{31e<R32,Jailer,A+,Good,78.0,89.0,58.0,daytime,Monday,Wednesday

@@ -1,0 +1,6 @@
+Monday,breakfast,zeytin,peynir,recel
+Monday,lunch,mercimek corbasi,pilav,turlu
+Tuesday,breakfast,zeytin,peynir,recel
+Sunday,breakfast,zeytin,peynir,recel
+Sunday,dinner,ezogelin,makarna,tavuk
+Wednesday,breakfast,zeytin,peynir,recel

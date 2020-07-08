@@ -1,0 +1,54 @@
+William Shakespeare
+Venus and Adonis
+21
+William Shakespeare
+A Lover's Complaint
+22
+William Shakespeare
+The Passionate Pilgrim
+23
+William Shakespeare
+Hamlet
+24
+William Shakespeare
+Hamlet
+25
+Marcel Proust
+In Search of Lost Time 
+10
+Marcel Proust 
+time regained
+34
+James Joyce
+Ulysses
+11
+James Joyce
+Finneganın Vahı
+14
+Miguel de Cervantes
+Don Quixote
+02
+F. Scott Fitzgerald
+The Great Gatsby
+52
+Herman Melville
+Moby Dick
+13
+Leo Tolstoy
+War and Peace
+51
+Leo Tolstoy
+The Prisoner of the Caucasus
+53
+Fyodor Dostoyevsky
+Karamazov Kardeşler
+33
+Fyodor Dostoyevsky
+Crime and Punishment
+30
+Harper Lee
+To Kill a Mockingbird
+31
+Franz Kafka
+The Trial
+32

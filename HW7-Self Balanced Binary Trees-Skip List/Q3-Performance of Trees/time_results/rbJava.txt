@@ -1,0 +1,164 @@
+***ARRAY SIZE = 10000***
+Insert time
+16.9
+Delete time
+107.1
+Insert time
+9.5
+Delete time
+27.6
+Insert time
+10.3
+Delete time
+47.7
+Insert time
+13.1
+Delete time
+58.7
+Insert time
+12.3
+Delete time
+37.7
+Insert time
+5.1
+Delete time
+24.1
+Insert time
+6.1
+Delete time
+56.9
+Insert time
+6.5
+Delete time
+26.9
+Insert time
+18.8
+Delete time
+39.6
+Insert time
+2.7
+Delete time
+24.0
+***ARRAY SIZE = 20000***
+Insert time
+7.6
+Delete time
+48.6
+Insert time
+20.3
+Delete time
+32.4
+Insert time
+36.8
+Delete time
+45.4
+Insert time
+3.5
+Delete time
+38.9
+Insert time
+3.9
+Delete time
+42.7
+Insert time
+3.3
+Delete time
+37.7
+Insert time
+3.6
+Delete time
+24.2
+Insert time
+3.4
+Delete time
+67.4
+Insert time
+3.5
+Delete time
+68.5
+Insert time
+2.9
+Delete time
+42.9
+***ARRAY SIZE = 40000***
+Insert time
+4.8
+Delete time
+23.1
+Insert time
+3.6
+Delete time
+23.5
+Insert time
+4.2
+Delete time
+33.8
+Insert time
+5.1
+Delete time
+21.3
+Insert time
+6.0
+Delete time
+43.8
+Insert time
+3.6
+Delete time
+71.7
+Insert time
+3.8
+Delete time
+55.6
+Insert time
+4.7
+Delete time
+19.4
+Insert time
+5.2
+Delete time
+25.3
+Insert time
+4.2
+Delete time
+17.1
+***ARRAY SIZE = 80000***
+Insert time
+5.9
+Delete time
+26.2
+Insert time
+5.1
+Delete time
+63.4
+Insert time
+5.4
+Delete time
+51.5
+Insert time
+4.5
+Delete time
+19.7
+Insert time
+4.8
+Delete time
+18.8
+Insert time
+4.5
+Delete time
+21.4
+Insert time
+5.1
+Delete time
+20.6
+Insert time
+9.2
+Delete time
+20.6
+Insert time
+5.8
+Delete time
+18.4
+Insert time
+5.8
+Delete time
+32.3

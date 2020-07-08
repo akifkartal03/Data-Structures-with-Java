@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.Akif","l":"AgeData"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.Akif","l":"ComparatorAgeData"},{"p":"com.Akif","l":"Main"},{"p":"com.Akif","l":"MaxHeap"}]
