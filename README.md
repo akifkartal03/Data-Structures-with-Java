@@ -1,2 +1,2 @@
-### Java Programming Language Projects and Implementation of Data Structures in CSE 222 course.
+### Data Structures Implementation in CSE 222 Data Structures and Algorithms course with Java Programming Language and my other examples.
 
